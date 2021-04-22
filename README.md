@@ -1,2 +1,2 @@
-# UI-UX-salon
-salon site with effects
+# UI-UX-Hotel Web Page
+Hotel web page with effects
